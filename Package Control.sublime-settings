@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"AutoHotkey",
+		"CMake",
+		"CMakeBuilder",
+		"OmniSharp",
+		"Package Control",
+		"Rust Enhanced",
+		"ShaderLanguages",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Text Pastry",
+		"TOML"
+	]
+}
