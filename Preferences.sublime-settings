@@ -1,0 +1,18 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 0,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Adaptive.sublime-theme",
+	"word_wrap": "false"
+}
