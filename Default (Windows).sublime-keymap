@@ -5,6 +5,7 @@
     { "keys": ["ctrl+shift+alt+right"], "command": "move_to", "args": {"to": "eol", "extend": true} },
     { "keys": ["ctrl+alt+s"], "command": "save_all" },
     { "keys": ["ctrl+alt+d"], "command": "goto_definition" },
+    { "keys": ["ctrl+shift+o"], "command": "prompt_select_workspace"},
     { "keys": ["alt+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false} },
     { "keys": ["alt+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true} },
     { "keys": ["ctrl+shift+g"], "command": "reindent", "args": {"single_line": false} },
@@ -16,6 +17,7 @@
     { "keys": ["ctrl+shift+alt+4"], "command": "set_setting", "args": {"setting": "tab_size", "value": 4} },
     { "keys": ["ctrl+shift+alt+b"], "command": "cancel_build" },
     { "keys": ["ctrl+alt+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    { "keys": ["ctrl+alt+f"], "command": "show_panel", "args": {"panel": "find_in_files"} },
     { "keys": ["ctrl+shift+p"], "command": "unbound" },
-    { "keys": ["ctrl+alt+o"], "command": "show_overlay", "args": {"overlay": "prompt_select_workspace"} },
+    { "keys": ["ctrl+shift+f"], "command": "unbound" },
 ]
